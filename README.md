@@ -1,4 +1,4 @@
-agenth smith
+agent smith
 fork of wireshark-git/082825
 
 - add functions to forward data to STDOUT or FILE
