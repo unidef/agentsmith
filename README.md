@@ -19,3 +19,11 @@ fork of wireshark-git/082825
 
 https://www.cia.gov/readingroom/docs/CIA-RDP75-00149R000700290006-1.pdf
 !!!!!
+
+
+data structure logging makeup
+
+packet
+data
+;log(packet,data)
+;sql(log)
